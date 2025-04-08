@@ -1,0 +1,9 @@
+skincare-ai-app/
+├── backend/
+│   └── app.py, analysis.py
+├── vision/
+│   └── detect_products.py
+├── frontend/
+│   └── (React or React Native)
+├── database/
+│   └── products.json
